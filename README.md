@@ -2,27 +2,29 @@
 <h1 align="center">📝Wabot-Md📝<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "Rza md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, saya "Rza md" bot WhatsApp yang dibuat oleh Ayush untuk melakukan segala kemungkinan di WhatsApp berdasarkan Dukungan WhatsApp Multi Device(MD).
 </p>
 </br>
 
-### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 3 days because i am continuously debugging it and making major changes in it.
+### ✧✧ Bot ini masih dalam pengembangan jadi jika Anda ingin mengkode ulang/memodifikasinya, harap periksa repo utama ini sekali dalam 3 hari karena saya terus-menerus men-debugnya dan membuat perubahan besar di dalamnya.
 </br>
-## ✧✧✧ What' new v1.0.2?
+## Apa yang baru v1.4.0?
 
 ```
-1. pinterest added ✅️
+1. pinterest pin ✅️
 2. Dalle added ✅️
-3. self/public mode added ✅️
+3. self/public mode ✅️
 4. sticker play download ✅️
-5. auto react added ✅️
-🔻More features and improvements!
+5. auto react ✅️
+6. Bkin Seni Text poto ✅️
+7. Dan Fitur lainnnya ✅️
+Update Versi 1.4.0 
 
 -regards Ayush
 ```
 </br>
 
-## ```Connect With Me```
+## ```Kontak Saya Chat? Save!```
 
 <p align="center">
 
@@ -32,7 +34,7 @@
 
 
 
-## ```Bot Support Groups```
+## ```Grup Dukungan Bot```
 <p align="center">
 
 <a href="https://chat.whatsapp.com/LBrZKtCpy7X1hZok3VyCNi"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -60,11 +62,11 @@
   <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
 </a>
 
-## `Run Panel📮`
+## `Run Panel 📮`
 
 ```bash
 pkg npm start
-pkg npm yarn
+pkg npm yrn
 
 ## ` BUILDPACKS`
 
@@ -77,7 +79,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
-## `Run Termux⚛️`
+```
+Run Termux
+## `Run Termux ⚛️`
 
 ```bash
 
@@ -96,7 +100,7 @@ kode : +63
 
 ```
 
-## `For 24/7 Activation (Termux)`
+## `Untuk Aktivasi 24/7 (Termux)`
 
 ```bash
 
@@ -108,7 +112,7 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
  <h2 align="center"> 🥈Thanks to
 </h2>
 
-1. **Teamolduser**
+1. **Pengguna lama tim**
    - GitHub: [@Rez4-4](https://github.com/Rez4-4)
 
 Feel free to contribute and make this project even more awesome! 💬
