@@ -1,0 +1,24 @@
+{
+    "name": "Wabot-rza",
+    "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
+    "repository": "github.com/Rez4-4",
+    "logo": "https://telegra.ph/file/8532eeb62916bd98b2cd1.jpg",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      },
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      },
+      {
+        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      }
+    ],
+     "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "eco"
+          }
+     }
+}
