@@ -2,7 +2,7 @@
 <h1 align="center">📝Wabot-Md📝<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Rza md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
@@ -125,9 +125,9 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/Rez4-4 (update link github)
+git clone https://github.com/Rez4-4/Kurumi-Wabot-Rza
 
-cd Wabot-md
+cd Kurumi-Wabot-Rza
 
 rm -rf session
 
@@ -150,6 +150,6 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 </h2>
 
 1. **Teamolduser**
-   - GitHub: [@Teamolduser](https://github.com/Rez4-4)
+   - GitHub: [@Rez4-4](https://github.com/Rez4-4)
 
 Feel free to contribute and make this project even more awesome! 💬
