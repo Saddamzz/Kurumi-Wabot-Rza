@@ -44,20 +44,6 @@
 
 - FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
 
-
-## ` Pair with WhatsApp`
-<h2 align="left">  <a href="https://maria-pair-riders004.koyeb.app/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-</a>
-</h2>
-
-## 
-
-
-
-   
-
-
-
 <a href="https://heroku.com/deploy">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
@@ -74,9 +60,9 @@
   <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
 </a>
 
-# Run Panel
+## `Run Panel📮`
 
-## `2022 2024`
+```bash
 pkg npm start
 pkg npm yarn
 
@@ -91,7 +77,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
-## `Run Termux`
+## `Run Termux⚛️`
 
 ```bash
 
