@@ -1,4 +1,4 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
+<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Rza-Md" border="0"></a>
 <h1 align="center">📝Wabot-Md📝<br></h1>
 
 <p align="center"> 
@@ -14,7 +14,7 @@
 1. pinterest added ✅️
 2. Dalle added ✅️
 3. self/public mode added ✅️
-4. nsfw added ✅️
+4. sticker play download ✅️
 5. auto react added ✅️
 🔻More features and improvements!
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=6283815472439&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=6283847334166&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
