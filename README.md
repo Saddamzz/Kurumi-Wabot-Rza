@@ -74,19 +74,11 @@
   <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
 </a>
 
-# Install Manually 👇
+# Run Panel
 
-## `Requirements`
-
-* [Node.js](https://nodejs.org/en/)
-
-* [Git](https://git-scm.com/downloads)
-
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-
-* [Libwebp](https://developers.google.com/speed/webp/download)
-
-* Any text editor
+## `2022 2024`
+pkg npm start
+pkg npm yarn
 
 ## ` BUILDPACKS`
 
@@ -99,41 +91,22 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
-## `For Termux/Ssh/Ubuntu`
+## `Run Termux`
 
 ```bash
 
-apt update
-
-apt upgrade
-
 pkg update && pkg upgrade
-
-pkg install bash
-
-pkg install libwebp
-
 pkg install git -y
-
 pkg install nodejs -y 
-
 pkg install ffmpeg -y 
-
-pkg install wget
-
 pkg install yarn
-
 pkg install imagemagick -y
-
 git clone https://github.com/Rez4-4/Kurumi-Wabot-Rza
-
 cd Kurumi-Wabot-Rza
-
-rm -rf session
-
 yarn install
-
 npm start
+
+kode : +63
 
 ```
 
@@ -146,7 +119,7 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 ```
 <br>
 <br>
- <h2 align="center"> 🔖Thanks to
+ <h2 align="center"> 🥈Thanks to
 </h2>
 
 1. **Teamolduser**
