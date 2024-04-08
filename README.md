@@ -21,8 +21,7 @@
 Update Versi 1.4.0 
 
 - by Rza-md
-```
-```
+
 ## `MENJALANKAN UNTUK TERMUX /UBUNTU/SSH 🖥️`
 
 ```bash
@@ -87,12 +86,6 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 # Pengaturan Untuk Penerapan 💬🦋
 
 - FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
-```
-```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
-```
 
 <br>
 <br>
