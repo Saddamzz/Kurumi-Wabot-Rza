@@ -22,11 +22,14 @@ Update Versi 1.4.0
 
 - by Rza-md
 
-## `MENJALANKAN UNTUK TERMUX /UBUNTU/SSH 🖥️`
+## `MENJALANKAN UNTUK TERMUX (github) /UBUNTU/SSH 🖥️`
 
 ```bash
-termux-setup-storage
+apt update
+apt upgrade
 pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
 pkg install git -y
 pkg install nodejs -y 
 pkg install ffmpeg -y 
@@ -34,20 +37,21 @@ pkg install wget
 pkg install yarn
 pkg install imagemagick -y
 git clone https://github.com/Rez4-4/Kurumi-Wabot-Rza
-cd Rez4-4/Kurumi-Wabot-Rza
+cd Kurumi-Wabot-Rza
+rm -rf session
 yarn install
 npm start
 
-Kode : +62
+Kode Fairing Code : +62
 
 ```
-## `MENJALANKAN UNTUK PANEL 📮`
+## `MENJALANKAN UNTUK ( PANEL ) 📮`
 
 ```bash
 npm install
 npm start
 
-Kode : +62
+Kode Fairing Code : +62
 ```
 ## `Untuk Aktivasi 24/7 (Termux)`
 
