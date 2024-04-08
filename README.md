@@ -45,8 +45,8 @@ Kode : +62
 ## `MENJALANKAN UNTUK PANEL 📮`
 
 ```bash
-pkg npm install
-pkg npm start
+npm install
+npm start
 
 Kode : +62
 ```
@@ -91,14 +91,14 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
-
 npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
-
 ```
+
 <br>
 <br>
  <h2 align="center"> 🥈Thanks to
 </h2>
+
 
 1. **Pengguna lama tim**
    - GitHub: [@Rez4-4](https://github.com/Rez4-4)
