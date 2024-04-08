@@ -52,42 +52,52 @@ Update Versi 1.4.0
 # Pengaturan Untuk Penerapan 💬🦋
 
 - FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
-
 ```
 
 ```
-Run Panel
-## `Run Panel 📮`
-```
-~ pkg npm start
-~ pkg npm yrn
-~ kode : +62
 
-## `Termux Panel Komputer Replit`
-```
-## *`Menjalankan Bot WhatsApp`*
-```
+## `For Termux/Ssh/Ubuntu`
 
-```
-Run Termux
-## `Run Termux ⚛️`
 ```bash
-pkg termux-setup-storage
+
+apt update
+
+apt upgrade
+
 pkg update && pkg upgrade
+
+pkg install bash
+
+pkg install libwebp
+
 pkg install git -y
+
 pkg install nodejs -y 
+
 pkg install ffmpeg -y 
+
+pkg install wget
+
 pkg install yarn
+
 pkg install imagemagick -y
-git clone https://github.com/Rez4-4/Kurumi-Wabot-Rza
-cd Kurumi-Wabot-Rza
+
+git clone https://github.com/Rez4-4 (update link github)
+
+cd Wabot-md
+
+rm -rf session
+
 yarn install
+
 npm start
 
-kode : +62
 ```
-## `Untuk Aktivasi 24/7 (Termux)`
-```
+
+## `For 24/7 Activation (Termux)`
+
+```bash
+
 npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 
 ```
