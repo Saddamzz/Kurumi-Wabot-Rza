@@ -28,7 +28,7 @@ Update Versi 1.4.0
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=6283847334166&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Kontak Reza 2005-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=6283847334166&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Kontak Rez 2005 ✓-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
