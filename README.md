@@ -20,7 +20,7 @@
 7. Dan Fitur lainnnya ✅️
 Update Versi 1.4.0 
 
--regards Ayush
+- by Rza-md
 ```
 </br>
 
@@ -56,11 +56,6 @@ pkg npm yrn
 ## `Termux Panel Komputer Replit`
 
 ```
-
-
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
