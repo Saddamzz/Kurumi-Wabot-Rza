@@ -53,13 +53,13 @@ Update Versi 1.4.0
 
 - FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
 
+
 Run Panel
 ## `Run Panel 📮`
-
-```bash
-pkg npm start
-pkg npm yrn
-kode : +62
+```
+~ pkg npm start
+~ pkg npm yrn
+~ kode : +62
 
 ## `Termux Panel Komputer Replit`
 
@@ -69,8 +69,6 @@ kode : +62
 Run Termux
 ## `Run Termux ⚛️`
 ```
-
-```bash
 pkg termux-setup-storage
 pkg update && pkg upgrade
 pkg install git -y
