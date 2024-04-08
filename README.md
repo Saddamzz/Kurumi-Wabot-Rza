@@ -46,7 +46,7 @@ Update Versi 1.4.0
 
 - FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
 
-
+Run Panel
 ## `Run Panel 📮`
 
 ```bash
@@ -56,15 +56,13 @@ pkg npm yrn
 ## `Termux Panel Komputer Replit`
 
 ```
-
-```
-
+## *`Menjalankan Bot WhatsApp`*
 ```
 Run Termux
 ## `Run Termux ⚛️`
 
 ```bash
-
+pkg termux-setup-storage
 pkg update && pkg upgrade
 pkg install git -y
 pkg install nodejs -y 
