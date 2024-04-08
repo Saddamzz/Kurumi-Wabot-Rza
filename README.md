@@ -22,7 +22,7 @@ Update Versi 1.4.0
 
 - by Rza-md
 
-## `MENJALANKAN UNTUK TERMUX (github) /UBUNTU/SSH 🖥️`
+## `MENJALANKAN UNTUK TERMUX (github) /UBUNTU/SSH 🖥️📱`
 
 ```bash
 apt update
@@ -45,7 +45,7 @@ npm start
 Kode Fairing Code : +62
 
 ```
-## `MENJALANKAN UNTUK ( PANEL ) 📮`
+## `MENJALANKAN UNTUK ( PANEL ) 📮 🖥️📱`
 
 ```bash
 npm install
@@ -57,7 +57,7 @@ Kode Fairing Code : +62
 
 ```bash
 
-npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
+npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs && node .
 
 ```
 </br>
