@@ -53,7 +53,9 @@ Update Versi 1.4.0
 
 - FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
 
+```
 
+```
 Run Panel
 ## `Run Panel 📮`
 ```
@@ -65,10 +67,12 @@ Run Panel
 
 ```
 ## *`Menjalankan Bot WhatsApp`*
+```
 
+```
 Run Termux
 ## `Run Termux ⚛️`
-```
+```bash
 pkg termux-setup-storage
 pkg update && pkg upgrade
 pkg install git -y
@@ -84,9 +88,8 @@ npm start
 kode : +62
 
 ```
-
 ## `Untuk Aktivasi 24/7 (Termux)`
-
+```
 ```bash
 
 npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
