@@ -21,41 +21,8 @@
 Update Versi 1.4.0 
 
 - by Rza-md
-```
-</br>
-
-## ```Kontak Saya Chat? Save!```
-
-<p align="center">
-
-<a href="https://api.whatsapp.com/send?phone=6283847334166&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Kontak Rez 2005 ✓-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-</p>
-
-## ```Github```
-<div align="center">
-   <a href="https://github.com/Rez4-4" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
-   <a 
-     
-<div align="center">
-<a href="https://instagram.com/rezaa.205" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-   <a 
-     
-## ```Grup Dukungan Bot```
-<p align="center">
-
-<a href="https://chat.whatsapp.com/LBrZKtCpy7X1hZok3VyCNi"><img src="https://img.shields.io/badge/Join Grup WhatsApp Rza-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-</p>
-
-
-# Pengaturan Untuk Penerapan 💬🦋
-
-- FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
-```
 
 ```
-
 ## `For Termux/Ssh/Ubuntu`
 
 ```bash
@@ -96,6 +63,44 @@ npm start
 
 ## `For 24/7 Activation (Termux)`
 
+```bash
+
+npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
+
+```
+</br>
+
+## ```Kontak Saya Chat? Save!```
+
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=6283847334166&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Kontak Rez 2005 ✓-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+
+## ```Github```
+<div align="center">
+   <a href="https://github.com/Rez4-4" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+   <a 
+     
+<div align="center">
+<a href="https://instagram.com/rezaa.205" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+   <a 
+     
+## ```Grup Dukungan Bot```
+<p align="center">
+
+<a href="https://chat.whatsapp.com/LBrZKtCpy7X1hZok3VyCNi"><img src="https://img.shields.io/badge/Join Grup WhatsApp Rza-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+
+
+# Pengaturan Untuk Penerapan 💬🦋
+
+- FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
+```
+```
+## `For 24/7 Activation (Termux)`
 ```bash
 
 npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
