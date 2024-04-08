@@ -65,9 +65,10 @@ kode : +62
 
 ```
 ## *`Menjalankan Bot WhatsApp`*
-```
+
 Run Termux
 ## `Run Termux ⚛️`
+```
 
 ```bash
 pkg termux-setup-storage
