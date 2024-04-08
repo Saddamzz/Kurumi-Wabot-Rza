@@ -23,45 +23,34 @@ Update Versi 1.4.0
 - by Rza-md
 
 ```
-## `For Termux/Ssh/Ubuntu`
+## `UNTUK TERMUX /UBUNTU/SSH`
 
 ```bash
 
-apt update
-
-apt upgrade
-
 pkg update && pkg upgrade
-
-pkg install bash
-
-pkg install libwebp
-
 pkg install git -y
-
 pkg install nodejs -y 
-
 pkg install ffmpeg -y 
-
 pkg install wget
-
 pkg install yarn
-
 pkg install imagemagick -y
-
-git clone https://github.com/Rez4-4 (update link github)
-
-cd Wabot-md
-
-rm -rf session
-
+git clone https://github.com/Rez4-4/Kurumi-Wabot-Rza
+cd Rez4-4/Kurumi-Wabot-Rza
 yarn install
-
 npm start
 
-```
+Kode : +62
 
-## `For 24/7 Activation (Termux)`
+```
+## `UNTUK PANEL`
+
+```bash
+pkg npm install
+pkg npm start
+
+Kode : +62
+```
+## `Untuk Aktivasi 24/7 (Termux)`
 
 ```bash
 
