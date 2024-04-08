@@ -6,7 +6,7 @@
 </p>
 </br>
 
-### ✧✧ Bot ini masih dalam pengembangan jadi jika Anda ingin mengkode ulang/memodifikasinya, harap periksa repo utama ini sekali dalam 3 hari karena saya terus-menerus men-debugnya dan membuat perubahan besar di dalamnya.
+### *Bot ini masih dalam pengembangan jadi jika Anda ingin mengkode ulang/memodifikasinya, harap periksa repo utama ini sekali dalam 3 hari karena saya terus-menerus men-debugnya dan membuat perubahan besar di dalamnya.*
 </br>
 ## Apa yang baru v1.4.0?
 
@@ -42,7 +42,7 @@ Update Versi 1.4.0
 </p>
 
 
-# Pengaturan Untuk Penerapan 👇
+# Pengaturan Untuk Penerapan 💬🦋
 
 - FORK THE REPOSITORY [Here](https://github.com/Rez4-4)
 
@@ -52,6 +52,7 @@ Run Panel
 ```bash
 pkg npm start
 pkg npm yrn
+kode : +62
 
 ## `Termux Panel Komputer Replit`
 
@@ -74,7 +75,7 @@ cd Kurumi-Wabot-Rza
 yarn install
 npm start
 
-kode : +63
+kode : +62
 
 ```
 
