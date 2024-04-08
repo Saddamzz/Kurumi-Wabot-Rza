@@ -64,7 +64,6 @@ Run Panel
 ~ kode : +62
 
 ## `Termux Panel Komputer Replit`
-
 ```
 ## *`Menjalankan Bot WhatsApp`*
 ```
@@ -86,12 +85,9 @@ yarn install
 npm start
 
 kode : +62
-
 ```
 ## `Untuk Aktivasi 24/7 (Termux)`
 ```
-```bash
-
 npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 
 ```
