@@ -8,9 +8,9 @@
 
 ### *Bot ini masih dalam pengembangan jadi jika Anda ingin mengkode ulang/memodifikasinya, harap periksa repo utama ini sekali dalam 3 hari karena saya terus-menerus men-debugnya dan membuat perubahan besar di dalamnya.*
 </br>
+
 ## Apa yang baru v1.4.0?
 
-```
 1. pinterest pin ✅️
 2. Dalle added ✅️
 3. self/public mode ✅️
@@ -21,12 +21,12 @@
 Update Versi 1.4.0 
 
 - by Rza-md
-
 ```
-## `UNTUK TERMUX /UBUNTU/SSH`
+```
+## `MENJALANKAN UNTUK TERMUX /UBUNTU/SSH 🖥️`
 
 ```bash
-
+termux-setup-storage
 pkg update && pkg upgrade
 pkg install git -y
 pkg install nodejs -y 
@@ -42,7 +42,7 @@ npm start
 Kode : +62
 
 ```
-## `UNTUK PANEL`
+## `MENJALANKAN UNTUK PANEL 📮`
 
 ```bash
 pkg npm install
