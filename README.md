@@ -19,8 +19,8 @@
 6. Bkin Seni Text poto ✅️
 7. Dan Fitur lainnnya ✅️
 Update Versi 1.4.0 
-
-- by Rza-md
+*Masih Bisa Di Gunakan tahun 2022 - 2024*
+- by Rza-md (Reza 2005)
 
 ## `UNTUK TERMUX/UBUNTU/SSH🖥️📱`
 
