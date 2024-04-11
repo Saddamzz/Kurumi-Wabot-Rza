@@ -1,8 +1,8 @@
 <a href="https://ibb.co/ygKJyM6"><img src="https://i.ibb.co/sscrwDK/anime-girl-bag-horizontal-bar-wallpaper-preview.jpg" alt="anime-girl-bag-horizontal-bar-wallpaper-preview" border="0"></a>
-<h1 align="center">📝(Rza 2005) (Rza-md)📝<br></h1>
+<h1 align="center">📝(Bot WhatsApp) (Rza-md)📝<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, saya "Rza 2005 md" bot WhatsApp yang dibuat oleh Reza Lahir 2005 untuk melakukan segala kemungkinan di WhatsApp berdasarkan Dukungan WhatsApp Multi Device(MD).
+  Konochiwa Senpai, saya "Rza-md" bot WhatsApp yang dibuat oleh Reza Lahir 2005 untuk melakukan segala kemungkinan di WhatsApp berdasarkan Dukungan WhatsApp Multi Device(MD).
 </p>
 </br>
 
@@ -22,7 +22,7 @@ Update Versi 1.4.0
 
 - by Rza-md
 
-## `MENJALANKAN UNTUK TERMUX (github) /UBUNTU/SSH 🖥️📱`
+## `MENJALANKAN UNTUK TERMUX(github)/UBUNTU/SSH🖥️📱`
 
 ```bash
 apt update
@@ -45,7 +45,7 @@ npm start
 Kode Fairing Code : +62
 
 ```
-## `MENJALANKAN UNTUK ( PANEL ) 📮 🖥️📱`
+## `MENJALANKAN UNTUK ( PANEL )📮 🖥️📱`
 
 ```bash
 npm install
