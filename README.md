@@ -86,7 +86,7 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs && node .
 
 </p>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rez4-4&repo=Kurumi-Wabot-Rza-go&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rez4-4&repo=Kurumi-Wabot-Rza&theme=highcontrast)
 
 
 # Pengaturan Untuk Penerapan 💬🦋
