@@ -9,7 +9,7 @@
 ### *Bot ini masih dalam pengembangan, harap periksa repo utama ini sekali dalam 4 hari karena saya terus-menerus men-debugnya dan membuat perubahan besar di dalamnya.*
 </br>
 
-## Apa yang baru v2.4.3?
+## Apa yang baru 1.4.3?
 
 1. pinterest pin ✅️
 2. Dalle added ✅️
@@ -18,7 +18,7 @@
 5. auto react ✅️
 6. Bkin Seni Text poto ✅️
 7. Dan Fitur lainnnya ✅️
-Update Versi 2.4.3
+1.4.3
  
 *Masih Bisa Di Gunakan tahun 2022 - 2024*
 - by Rza-md (Reza 2005)
